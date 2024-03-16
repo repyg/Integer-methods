@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "stdlib.h": "c",
+        "optional": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c",
+        "stdio.h": "c",
+        "math.h": "c"
+    }
+}

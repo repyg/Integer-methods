@@ -1,0 +1,8 @@
+method golden section
+2.330366
+method polyline
+2.332153
+method tangent
+2.330437
+method Newton
+2.330401

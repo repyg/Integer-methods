@@ -1,0 +1,116 @@
+Working hours and number of permutations for 1000
+The sorting time by the simple selection method 0.001000 and the number of exchange operations 999
+The sorting time by the bubble method 0.003000 and the number of exchange operations 255882
+The sorting time by the comb sorting method 0.000000 and the number of exchange operations 4341
+The sorting time by the shaker sorting method 0.001000 and the number of exchange operations 255882
+Working hours and number of permutations for 2500
+The sorting time by the simple selection method 0.004000 and the number of exchange operations 2499
+The sorting time by the bubble method 0.013000 and the number of exchange operations 1549175
+The sorting time by the comb sorting method 0.001000 and the number of exchange operations 12415
+The sorting time by the shaker sorting method 0.011000 and the number of exchange operations 1549175
+Working hours and number of permutations for 5000
+The sorting time by the simple selection method 0.022000 and the number of exchange operations 4999
+The sorting time by the bubble method 0.038000 and the number of exchange operations 6248284
+The sorting time by the comb sorting method 0.000000 and the number of exchange operations 27127
+The sorting time by the shaker sorting method 0.025000 and the number of exchange operations 6248284
+Working hours and number of permutations for 10000
+The sorting time by the simple selection method 0.108000 and the number of exchange operations 9999
+The sorting time by the bubble method 0.222000 and the number of exchange operations 25079940
+The sorting time by the comb sorting method 0.002000 and the number of exchange operations 59709
+The sorting time by the shaker sorting method 0.100000 and the number of exchange operations 25079940
+Working hours and number of permutations for 50000
+The sorting time by the simple selection method 1.638000 and the number of exchange operations 49999
+The sorting time by the bubble method 9.921000 and the number of exchange operations 626331066
+The sorting time by the comb sorting method 0.011000 and the number of exchange operations 345692
+The sorting time by the shaker sorting method 4.378000 and the number of exchange operations 626331066
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 5.826000 and the number of exchange operations 99999
+The sorting time by the bubble method 41.563000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.023000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 18.596000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.435000 and the number of exchange operations 99999
+The sorting time by the bubble method 23.078000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.012000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 23.640000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.474000 and the number of exchange operations 99999
+The sorting time by the bubble method 23.957000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.012000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 23.856000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.395000 and the number of exchange operations 99999
+The sorting time by the bubble method 24.777000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.024000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 24.754000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.644000 and the number of exchange operations 99999
+The sorting time by the bubble method 23.767000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.019000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 23.410000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.410000 and the number of exchange operations 99999
+The sorting time by the bubble method 21.275000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.011000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 19.886000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.372000 and the number of exchange operations 99999
+The sorting time by the bubble method 19.057000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.010000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 20.063000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.347000 and the number of exchange operations 99999
+The sorting time by the bubble method 21.060000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.012000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 26.388000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.396000 and the number of exchange operations 99999
+The sorting time by the bubble method 19.880000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.013000 and the number of exchange operations 712497
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.448000 and the number of exchange operations 99999
+The sorting time by the bubble method 21.988000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.012000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 20.620000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.329000 and the number of exchange operations 99999
+The sorting time by the bubble method 20.310000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.013000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 20.853000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.390000 and the number of exchange operations 99999
+The sorting time by the bubble method 28.774000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.018000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 23.355000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.374000 and the number of exchange operations 99999
+The sorting time by the bubble method 20.559000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.011000 and the number of exchange operations 712497
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.383000 and the number of exchange operations 99999
+The sorting time by the bubble method 19.396000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.013000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 26.333000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.359000 and the number of exchange operations 99999
+The sorting time by the bubble method 20.010000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.011000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 22.147000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.329000 and the number of exchange operations 99999
+The sorting time by the bubble method 20.184000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.013000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 21.403000 and the number of exchange operations -1794173280
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.357000 and the number of exchange operations 99999
+The sorting time by the bubble method 18.783000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.010000 and the number of exchange operations 712497
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.348000 and the number of exchange operations 99999
+The sorting time by the bubble method 19.122000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.011000 and the number of exchange operations 712497
+Working hours and number of permutations for 100000
+The sorting time by the simple selection method 2.402000 and the number of exchange operations 99999
+The sorting time by the bubble method 23.865000 and the number of exchange operations -1794173280
+The sorting time by the comb sorting method 0.013000 and the number of exchange operations 712497
+The sorting time by the shaker sorting method 23.063000 and the number of exchange operations -1794173280
