@@ -93,12 +93,10 @@ void method_runge_kutt(double h) {
     fprintf(output, "%f ", Y[0]);
     for(int i=1; i<=n; i++){
         double k1=f(X[i-1], Y[i-1]);
-        double k2=f(X[i-1]+h/4, Y[i-1]+k1/4);
-        double k3=f(X[i-1]+h*3/8, Y[i-1]+k1*3/32+k2*9/32);
-        double k4=f(X[i-1]+h*12/13, Y[i-1]+k1*1932/2197-k2*7200/2197+k3*7296/2197);
-        double k5=f(X[i-1]+h, Y[i-1]+k1*439/216-k2*8-k3*3680/513-k4*845/4104);
-        double k6=f(X[i-1]+h/2,Y[i-1]-k1*8/27+k2*2-k3*3544/2565+k4*1859/4104-k5*11/40);
-        Y[i] = Y[i-1]+h*(k1*16/135+k3*6656/12825+k4*28561/56430-k5*9/50+k6*2/55);
+        double k2=f(X[i-1]+h/2, Y[i-1]+k1*h/2);
+        double k3=f(X[i-1]+h/2, Y[i-1]+k2*h/2);
+        double k4=f(X[i-1]+h, Y[i-1]+k3*h);
+        Y[i] = Y[i-1]+h/6*(k1+2*k2+2*k3+k4);
         X[i] = X[i-1]+h;
         fprintf(output, "%f ", Y[i]);
     }
