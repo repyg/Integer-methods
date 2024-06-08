@@ -1,93 +1,70 @@
-# Data Structures in Go
+# University Labs
 
-This repository contains implementations of various data structures in Go. These implementations are designed to be simple, efficient, and easy to understand.
+## 1. [Sorting methods](Lab1)
 
-## Table of Contents
+> Main types of sorting
 
-- [Introduction](#introduction)
-- [Data Structures](#data-structures)
-  - [Binary Tree](#binary-tree)
-  - [Heap](#heap)
-  - [List](#list)
-  - [Ring](#ring)
-  - [Doubly Linked List](#doubly-linked-list)
-  - [Hash Table](#hash-table)
-  - [Linked List](#linked-list)
-  - [Queue](#queue)
-  - [Stack](#stack)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- Bubble sort
+- Simple sort
+- Shaker sort
+- Comb sort
 
-## Introduction
+---
 
-This repository provides implementations for common data structures in Go. Each data structure is implemented in its own file for modularity and ease of use.
+## 2. [Integral methods](Lab2)
 
-## Data Structures
+> Various integration methods
 
-### Binary Tree
+- Method right rectangle
+- Method left rectangle
+- Method middle rectangle
+- Method trapeze
+- Method Simpson
+- Method Gauss-Quadrature
 
-- **File:** `binTree.go`
-- **Description:** Implementation of a binary tree data structure. Supports standard operations like insertion, deletion, and traversal.
+---
 
-### Heap
+## 3. [Differencial methods](Lab3)
 
-- **File:** `conHeap.go`
-- **Description:** Implementation of a heap data structure. Supports operations like insertion, deletion, and heapification.
+> Various differential methods
 
-### List
+- Euler's Method 
+- Modified Euler's method 
+- Improved Euler's method
+- Runge Kutta's method (with 6 coefficients)
 
-- **File:** `conList.go`
-- **Description:** Implementation of a list data structure. Supports operations like addition, removal, and iteration.
+---
 
-### Ring
+## 4. [System of linear equations](Lab4)
 
-- **File:** `conRing.go`
-- **Description:** Implementation of a ring (circular list) data structure. Supports operations typical of a circular list.
+> Various methods of system of linear equations
 
-### Doubly Linked List
+- Gauss method
+- Gauss-Seidel method
+- Kramer method
 
-- **File:** `doublyLList.go`
-- **Description:** Implementation of a doubly linked list data structure. Supports operations like addition, removal, and traversal in both directions.
+---
 
-### Hash Table
+## 5. [Approximate methods](Lab5)
 
-- **File:** `hashTable.go`
-- **Description:** Implementation of a hash table data structure. Supports operations like insertion, deletion, and searching.
+> Different approximates methods
 
-### Linked List
+- Least squares method
+- Method linear regression 
+---
 
-- **File:** `linkedList.go`
-- **Description:** Implementation of a singly linked list data structure. Supports operations like addition, removal, and traversal.
+## 6. [Monte Carlo's method](Lab6)
 
-### Queue
+> Computational technique that utilizes random sampling to approximate solutions to mathematical problems or simulate complex systems.
 
-- **File:** `queue.go`
-- **Description:** Implementation of a queue data structure. Supports standard queue operations like enqueue and dequeue.
+---
 
-### Stack
+## 7. [Optimization methods](Lab7)
 
-- **File:** `stack.go`
-- **Description:** Implementation of a stack data structure. Supports standard stack operations like push and pop.
+> Various optimisation methods
 
-## Usage
-
-To use any of the data structures, simply import the corresponding file into your Go project and instantiate the data structure as needed.
-
-Example of using the binary tree:
-
-```go
-package main
-
-import (
-    "fmt"
-    "path/to/your/repo/binTree"
-)
-
-func main() {
-    tree := binTree.New()
-    tree.Insert(10)
-    tree.Insert(20)
-    fmt.Println(tree.Search(10)) // Output: true
-}
-```
+- Golden section method
+- Polyline method
+- Tangents method 
+- Newton method
+- Dichotomy method
